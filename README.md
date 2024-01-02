@@ -5,7 +5,6 @@
 
 #Featuires
 -Login/Sign up
-
 - SignIn /SignUp Form
   -redirect to Browse page
 
@@ -15,8 +14,8 @@
   -Trailer in background
   -Title and Description
   -Movie Suggestions
-  -Movie list\*N
+    -Movie list\*N
 
 -Netflix-gpt
--Search bar
--Movie Suggestions
+  -Search bar
+  -Movie Suggestions
