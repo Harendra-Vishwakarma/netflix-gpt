@@ -1,6 +1,6 @@
-import Body from "./components/Body";
+import AppRouter from "./router/AppRouter";
 function App() {
-  return <Body />;
+  return <AppRouter />;
 }
 
 export default App;
